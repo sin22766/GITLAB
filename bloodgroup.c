@@ -39,7 +39,7 @@ void main()
     }
     else
     {
-      printf("%s, Z. Nice! You can give blood to all: O, A, B, AB\n", Name);
+      printf("%s, Oh. Nice! You can give blood to all: O, A, B, AB\n", Name);
       printf("  But Sad! You can receive blood only from: O\n");
     }
     printf("\nContinue (YES for Yes)? ");
